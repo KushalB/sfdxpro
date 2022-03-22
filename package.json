@@ -14,6 +14,7 @@
     "categories": [
         "Extension Packs"
     ],
+    "icon": "https://s3.amazonaws.com/logosnap/logos/2022/Mar/small-7863-6239d076ea781.png",
     "extensionPack": [ 
         "salesforce.salesforcedx-vscode",
         "nicolasvuillamy.vscode-sfdx-hardis",
