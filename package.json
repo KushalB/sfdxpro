@@ -1,0 +1,15 @@
+{
+    "name": "sfdxpro",
+    "displayName": "sfdx pro essentials",
+    "description": "essential extentions for sfdx",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.65.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "publisher.extensionName"
+    ]
+}
