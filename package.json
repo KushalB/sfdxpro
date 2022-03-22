@@ -10,6 +10,28 @@
         "Extension Packs"
     ],
     "extensionPack": [ 
-        "publisher.extensionName"
+        "salesforce.salesforcedx-vscode",
+        "nicolasvuillamy.vscode-sfdx-hardis",
+        "financialforce.lana",
+        "dbaeumer.vscode-eslint",
+        "eamodio.gitlens",
+        "vignaeshrama.sfdx-package-xml-generator",
+        "allanoricil.salesforce-soql-editor",
+        "ajinkya-hingne.salesforce-snippets",
+        "redhat.vscode-xml",
+        "redhat.vscode-yaml",
+        "codescansf.codescan-vscode",
+        "chuckjonas.apex-pmd",
+        "grapecity.gc-excelviewer",
+        "mhutchie.git-graph",
+        "sanjayrathore.quick-salesforce-apex-class",
+        "sanjayrathore.quick-salesforce-metadata-backup",
+        "teamastra.sfdx-vs-test-class-generator",
+        "vignaeshrama.sfdx-command-builder",
+        "greglovelidge.sfdh",
+        "chuckjonas.salesforce-diff",
+        "hugoom.sfdx-autoheader",
+        "oblongmana.vscode-salesforce-doc-lookup",
+        "arjun.swagger-viewer"
     ]
 }
