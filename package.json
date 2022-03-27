@@ -2,7 +2,7 @@
     "name": "sfdxpro",
     "displayName": "sfdx pro essentials",
     "description": "essential extentions for sfdx",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.65.0"
     },
@@ -14,7 +14,7 @@
     "categories": [
         "Extension Packs"
     ],
-    "icon": "https://s3.amazonaws.com/logosnap/logos/2022/Mar/small-7863-6239d076ea781.png",
+    "icon": "logo.png",
     "extensionPack": [ 
         "salesforce.salesforcedx-vscode",
         "nicolasvuillamy.vscode-sfdx-hardis",
