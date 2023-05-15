@@ -2,7 +2,7 @@
     "name": "sfdxpro",
     "displayName": "sfdx pro essentials",
     "description": "essential extentions for sfdx",
-    "version": "0.0.2",
+    "version": "0.0.4",
     "engines": {
         "vscode": "^1.65.0"
     },

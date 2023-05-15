@@ -8,7 +8,7 @@ Welcome to the SFDX Pro Essentials Extension Pack! This comprehensive collection
 
 2. **SFDX Hardis** (nicolasvuillamy.vscode-sfdx-hardis): Simplify your SFDX workflows with features like org comparison, metadata diffing, scratch org management, and enhanced Salesforce DX project support.
 
-3. **Lana** (financialforce.lana): Accelerate your development with the Apex Log Analyzer. Visualize code execution via Flamegraph and Calltree, and identify performance and SOQL/DML issues with Method and Database Analysis.
+3. **Apex Log Analyzer** (financialforce.lana): Accelerate your development with the Apex Log Analyzer. Visualize code execution via Flamegraph and Calltree, and identify performance and SOQL/DML issues with Method and Database Analysis.
 
 4. **ESLint** (dbaeumer.vscode-eslint): Ensure consistent code quality by leveraging this popular linter extension for JavaScript and TypeScript, enabling you to catch and fix errors, enforce coding standards, and optimize your code.
 
