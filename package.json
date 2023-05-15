@@ -16,7 +16,7 @@
     ],
     "icon": "logo.png",
     "extensionPack": [ 
-        "salesforce.salesforcedx-vscode",
+        "salesforce.salesforcedx-vscode-expanded",
         "nicolasvuillamy.vscode-sfdx-hardis",
         "financialforce.lana",
         "dbaeumer.vscode-eslint",
